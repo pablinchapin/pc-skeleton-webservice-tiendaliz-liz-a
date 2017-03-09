@@ -1,0 +1,8 @@
+{
+	"name" : "pc-skeleton-webservice-tiendaliz-liz-a",
+	"dependencies" : {
+		"angular" : "~1.6.0",
+		"angular-resource" : "~1.6.0",
+		"bootstrap-css-only" : "~3.3.5"
+	}
+}
